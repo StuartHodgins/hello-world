@@ -1,2 +1,3 @@
 # hello-world
-Hello tutorial
+Hello tutorial.
+This is a necessary if dull step to relevance.
